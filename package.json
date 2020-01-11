@@ -1,6 +1,6 @@
 {
   "name": "ms-cfp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "chega.ai call for papers miscroservice",
   "main": "dist/index.js",
   "scripts": {
